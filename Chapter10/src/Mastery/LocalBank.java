@@ -114,7 +114,7 @@ public class LocalBank {
 		frame.getContentPane().add(Transactioninfo);
 		
 		BalanceResponse = new JTextField();
-		BalanceResponse.setBounds(10, 323, 688, 20);
+		BalanceResponse.setBounds(10, 323, 814, 20);
 		frame.getContentPane().add(BalanceResponse);
 		BalanceResponse.setColumns(10);
 		
