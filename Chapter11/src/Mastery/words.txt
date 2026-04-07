@@ -1,0 +1,7 @@
+6
+apple
+computer
+science
+math
+integer
+words
